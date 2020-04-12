@@ -1,2 +1,0 @@
-# SnapLogicTest
-Connect SnapLogic
